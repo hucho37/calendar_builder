@@ -1,1 +1,1 @@
-Auto-format by https://ultralytics.com/actions
+Fix Yolo 8.0.206 scale bug (#7821)
