@@ -1,1 +1,1 @@
-ultralytics 8.1.34 Inference API robust imgsz checks (#9274)
+Embed videos in Docs pages using Parent pages for relevant segments (#6877)
